@@ -1,6 +1,10 @@
 name: Snake
 
 on:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/snake.yml"
   schedule:
     - cron: "0 12 * * *"
   workflow_dispatch:
