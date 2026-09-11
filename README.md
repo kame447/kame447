@@ -29,5 +29,3 @@ I build tools around AI-assisted software development and study how people estab
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kame447/kame447/output/github-snake.svg">
   <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/kame447/kame447/output/github-snake.svg">
 </picture>
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kame447&theme=github-compact&hide_border=true&area=true)
