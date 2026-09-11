@@ -33,4 +33,3 @@ jobs:
           plugin_followup: yes
           plugin_followup_sections: repositories
           plugin_followup_indepth: yes
-          plugin_notable: yes
