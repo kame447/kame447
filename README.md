@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Shogo 👋</h1>
+<h1 align="center">Hi, I'm Kame447 👋</h1>
 
 <p align="center">
   Computer Science / Cognitive Science<br>
